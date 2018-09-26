@@ -1,0 +1,331 @@
+Determining if the function _snprintf exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_348b5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_348b5.dir/build.make CMakeFiles/cmTC_348b5.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_348b5.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -DCHECK_FUNCTION_EXISTS=_snprintf   -o CMakeFiles/cmTC_348b5.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_348b5
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_348b5.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_snprintf    -rdynamic CMakeFiles/cmTC_348b5.dir/CheckFunctionExists.c.o  -o cmTC_348b5 
+CMakeFiles/cmTC_348b5.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x7): undefined reference to `_snprintf'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_348b5] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_348b5/fast] Error 2
+
+
+Determining if the function _vsnprintf exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_901d7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_901d7.dir/build.make CMakeFiles/cmTC_901d7.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_901d7.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -DCHECK_FUNCTION_EXISTS=_vsnprintf   -o CMakeFiles/cmTC_901d7.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_901d7
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_901d7.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_vsnprintf    -rdynamic CMakeFiles/cmTC_901d7.dir/CheckFunctionExists.c.o  -o cmTC_901d7 
+CMakeFiles/cmTC_901d7.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x7): undefined reference to `_vsnprintf'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_901d7] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_901d7/fast] Error 2
+
+
+Determining if the function _atoi64 exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_904c0/fast"
+/usr/bin/make -f CMakeFiles/cmTC_904c0.dir/build.make CMakeFiles/cmTC_904c0.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_904c0.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -DCHECK_FUNCTION_EXISTS=_atoi64   -o CMakeFiles/cmTC_904c0.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_904c0
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_904c0.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_atoi64    -rdynamic CMakeFiles/cmTC_904c0.dir/CheckFunctionExists.c.o  -o cmTC_904c0 
+CMakeFiles/cmTC_904c0.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x7): undefined reference to `_atoi64'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_904c0] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_904c0/fast] Error 2
+
+
+Determining if the function _stat32i64 exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_2f923/fast"
+/usr/bin/make -f CMakeFiles/cmTC_2f923.dir/build.make CMakeFiles/cmTC_2f923.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_2f923.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -DCHECK_FUNCTION_EXISTS=_stat32i64   -o CMakeFiles/cmTC_2f923.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_2f923
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2f923.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=_stat32i64    -rdynamic CMakeFiles/cmTC_2f923.dir/CheckFunctionExists.c.o  -o cmTC_2f923 
+CMakeFiles/cmTC_2f923.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text+0x7): undefined reference to `_stat32i64'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_2f923] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_2f923/fast] Error 2
+
+
+Determining if the include file in6addr.h exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b2233/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b2233.dir/build.make CMakeFiles/cmTC_b2233.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b2233.dir/CheckIncludeFile.c.o
+/usr/bin/cc -DKEYWORD=__inline   -o CMakeFiles/cmTC_b2233.dir/CheckIncludeFile.c.o   -c /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:21: fatal error: in6addr.h: No such file or directory
+ #include <in6addr.h>
+                     ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_b2233.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_b2233/fast] Error 2
+
+
+Determining if the include file sys/sockio.h exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_182ed/fast"
+/usr/bin/make -f CMakeFiles/cmTC_182ed.dir/build.make CMakeFiles/cmTC_182ed.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_182ed.dir/CheckIncludeFile.c.o
+/usr/bin/cc -DKEYWORD=__inline   -o CMakeFiles/cmTC_182ed.dir/CheckIncludeFile.c.o   -c /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:24: fatal error: sys/sockio.h: No such file or directory
+ #include <sys/sockio.h>
+                        ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_182ed.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_182ed/fast] Error 2
+
+
+Determining if the include file vfork.h exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_a0133/fast"
+/usr/bin/make -f CMakeFiles/cmTC_a0133.dir/build.make CMakeFiles/cmTC_a0133.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a0133.dir/CheckIncludeFile.c.o
+/usr/bin/cc -DKEYWORD=__inline   -o CMakeFiles/cmTC_a0133.dir/CheckIncludeFile.c.o   -c /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:19: fatal error: vfork.h: No such file or directory
+ #include <vfork.h>
+                   ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_a0133.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_a0133/fast] Error 2
+
+
+Determining if the include file sys/capability.h exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_f6380/fast"
+/usr/bin/make -f CMakeFiles/cmTC_f6380.dir/build.make CMakeFiles/cmTC_f6380.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f6380.dir/CheckIncludeFile.c.o
+/usr/bin/cc -DKEYWORD=__inline   -o CMakeFiles/cmTC_f6380.dir/CheckIncludeFile.c.o   -c /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:28: fatal error: sys/capability.h: No such file or directory
+ #include <sys/capability.h>
+                            ^
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_f6380.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_f6380/fast] Error 2
+
+
+Determining if the function cap_set_flag exists in the cap failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_10c69/fast"
+/usr/bin/make -f CMakeFiles/cmTC_10c69.dir/build.make CMakeFiles/cmTC_10c69.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_10c69.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -DCHECK_FUNCTION_EXISTS=cap_set_flag   -o CMakeFiles/cmTC_10c69.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_10c69
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_10c69.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=cap_set_flag    -rdynamic CMakeFiles/cmTC_10c69.dir/CheckFunctionExists.c.o  -o cmTC_10c69 -lcap 
+/usr/bin/ld: cannot find -lcap
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_10c69] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_10c69/fast] Error 2
+
+
+Determining if the function X509_VERIFY_PARAM_set1_host exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_bb0cb/fast"
+/usr/bin/make -f CMakeFiles/cmTC_bb0cb.dir/build.make CMakeFiles/cmTC_bb0cb.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_bb0cb.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=X509_VERIFY_PARAM_set1_host   -o CMakeFiles/cmTC_bb0cb.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_bb0cb
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_bb0cb.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=X509_VERIFY_PARAM_set1_host    -rdynamic CMakeFiles/cmTC_bb0cb.dir/CheckFunctionExists.c.o  -o cmTC_bb0cb /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_bb0cb.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `X509_VERIFY_PARAM_set1_host'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_bb0cb] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_bb0cb/fast] Error 2
+
+
+Determining if the function RSA_set0_key exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_7a379/fast"
+/usr/bin/make -f CMakeFiles/cmTC_7a379.dir/build.make CMakeFiles/cmTC_7a379.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_7a379.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=RSA_set0_key   -o CMakeFiles/cmTC_7a379.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_7a379
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7a379.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=RSA_set0_key    -rdynamic CMakeFiles/cmTC_7a379.dir/CheckFunctionExists.c.o  -o cmTC_7a379 /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_7a379.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `RSA_set0_key'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_7a379] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_7a379/fast] Error 2
+
+
+Determining if the function X509_get_key_usage exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_da597/fast"
+/usr/bin/make -f CMakeFiles/cmTC_da597.dir/build.make CMakeFiles/cmTC_da597.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_da597.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=X509_get_key_usage   -o CMakeFiles/cmTC_da597.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_da597
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_da597.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=X509_get_key_usage    -rdynamic CMakeFiles/cmTC_da597.dir/CheckFunctionExists.c.o  -o cmTC_da597 /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_da597.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `X509_get_key_usage'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_da597] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_da597/fast] Error 2
+
+
+Determining if the function SSL_CTX_get0_certificate exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_fa079/fast"
+/usr/bin/make -f CMakeFiles/cmTC_fa079.dir/build.make CMakeFiles/cmTC_fa079.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_fa079.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=SSL_CTX_get0_certificate   -o CMakeFiles/cmTC_fa079.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_fa079
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_fa079.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=SSL_CTX_get0_certificate    -rdynamic CMakeFiles/cmTC_fa079.dir/CheckFunctionExists.c.o  -o cmTC_fa079 /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_fa079.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `SSL_CTX_get0_certificate'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_fa079] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_fa079/fast] Error 2
+
+
+Determining if the function SSL_get0_alpn_selected exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5c211/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5c211.dir/build.make CMakeFiles/cmTC_5c211.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5c211.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=SSL_get0_alpn_selected   -o CMakeFiles/cmTC_5c211.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_5c211
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5c211.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=SSL_get0_alpn_selected    -rdynamic CMakeFiles/cmTC_5c211.dir/CheckFunctionExists.c.o  -o cmTC_5c211 /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_5c211.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `SSL_get0_alpn_selected'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_5c211] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_5c211/fast] Error 2
+
+
+Determining if the function SSL_set_alpn_protos exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_17d46/fast"
+/usr/bin/make -f CMakeFiles/cmTC_17d46.dir/build.make CMakeFiles/cmTC_17d46.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_17d46.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=SSL_set_alpn_protos   -o CMakeFiles/cmTC_17d46.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_17d46
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_17d46.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=SSL_set_alpn_protos    -rdynamic CMakeFiles/cmTC_17d46.dir/CheckFunctionExists.c.o  -o cmTC_17d46 /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_17d46.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `SSL_set_alpn_protos'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_17d46] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_17d46/fast] Error 2
+
+
+Determining if the SSL_CTX_get_extra_chain_certs_only exist failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_13a37/fast"
+/usr/bin/make -f CMakeFiles/cmTC_13a37.dir/build.make CMakeFiles/cmTC_13a37.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_13a37.dir/CheckSymbolExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread    -o CMakeFiles/cmTC_13a37.dir/CheckSymbolExists.c.o   -c /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function ‘main’:
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: ‘SSL_CTX_get_extra_chain_certs_only’ undeclared (first use in this function)
+   return ((int*)(&SSL_CTX_get_extra_chain_certs_only))[argc];
+                   ^
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:13:1: error: control reaches end of non-void function [-Werror=return-type]
+ }
+ ^
+cc1: all warnings being treated as errors
+make[1]: *** [CMakeFiles/cmTC_13a37.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_13a37/fast] Error 2
+
+File /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <openssl/ssl.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef SSL_CTX_get_extra_chain_certs_only
+  return ((int*)(&SSL_CTX_get_extra_chain_certs_only))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function TLS_client_method exists failed with the following output:
+Change Dir: /home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_69bfe/fast"
+/usr/bin/make -f CMakeFiles/cmTC_69bfe.dir/build.make CMakeFiles/cmTC_69bfe.dir/build
+make[1]: Entering directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_69bfe.dir/CheckFunctionExists.c.o
+/usr/bin/cc -DKEYWORD=__inline  -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=TLS_client_method   -o CMakeFiles/cmTC_69bfe.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.12/Modules/CheckFunctionExists.c
+Linking C executable cmTC_69bfe
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_69bfe.dir/link.txt --verbose=1
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -DCHECK_FUNCTION_EXISTS=TLS_client_method    -rdynamic CMakeFiles/cmTC_69bfe.dir/CheckFunctionExists.c.o  -o cmTC_69bfe /usr/lib/i386-linux-gnu/libssl.so /usr/lib/i386-linux-gnu/libcrypto.so -lm 
+CMakeFiles/cmTC_69bfe.dir/CheckFunctionExists.c.o: In function `main':
+CheckFunctionExists.c:(.text.startup+0x7): undefined reference to `TLS_client_method'
+collect2: error: ld returned 1 exit status
+make[1]: *** [cmTC_69bfe] Error 1
+make[1]: Leaving directory `/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/CMakeTmp'
+make: *** [cmTC_69bfe/fast] Error 2
+
+

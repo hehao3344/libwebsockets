@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wsign-compare -Wignored-qualifiers -Wtype-limits -Wuninitialized -Werror -fvisibility=hidden -Wundef  -O3  -pthread -O3 -DNDEBUG  -rdynamic CMakeFiles/test-fuzxy.dir/test-apps/fuzxy.c.o  -o bin/libwebsockets-test-fuzxy lib/libwebsockets.a -lssl -lcrypto -lm 

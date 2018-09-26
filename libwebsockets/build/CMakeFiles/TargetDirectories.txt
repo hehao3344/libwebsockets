@@ -1,0 +1,16 @@
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/install/strip.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/install.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/list_install_components.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/rebuild_cache.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/edit_cache.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/install/local.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/websockets.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/test-client.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/test-lejp.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/websockets_shared.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/test-server-extpoll.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/test-server.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/dist.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/test-fuzxy.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/package.dir
+/home/hehao/working/libwebsocket/libwebsockets/build/CMakeFiles/package_source.dir
